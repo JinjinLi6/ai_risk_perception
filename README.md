@@ -1,1 +1,2 @@
-## 2022年度国创项目代码仓库
+## ai risk perception
+This is a repository for the innovation training program about ai risk perception. (SWUFE ITP 2022)
